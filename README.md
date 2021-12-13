@@ -1,7 +1,7 @@
 # TEMNOAPP INTERVIWER
 <div style="display:flex;align-item:center">
-   <img width="400px" src="1.png" />
-   <img width="400px" src="1.png" />
+   <img style=" width:200px"  src="1.png" />
+   <img style=" width:200px"  src="1.png" />
 </div>
  <hr />
  <p>
